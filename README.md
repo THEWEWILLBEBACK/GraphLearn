@@ -1,6 +1,3 @@
-# GraphLearn
-Something to learn at my leisure
-
 
 # 福利社1.2迭代
 ### 1、需求
